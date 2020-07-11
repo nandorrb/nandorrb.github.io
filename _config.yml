@@ -54,22 +54,12 @@ roles:
    start: 2015
    end: 2018
    employer: MECATRONICA.PE - Lima, Lima
-   description: Developed the BlueSquid system (https://nandorrb.github.io/bluesquid/), focused on logistics and data collection. 
-   Developed an own PLC which helps to collect data, at low cost and send directly to the central system. 
-   Developed the system data monitoring and analysis software, using open source components. 
-   Developed Hardware products in conjunction with the company ALL ENERGY PERU SAC, oriented to the energy and natural gas market. 
-   We implement advanced technologies in innovative industrial grade products optimized for the Peruvian market. 
-   These products are competent in price, performance and durability, applying the engineering standards necessary to fill their function.
+   description: Developed the BlueSquid system (https://nandorrb.github.io/bluesquid/), focused on logistics and data collection. Developed an own PLC which helps to collect data, at low cost and send directly to the central system. Developed the system data monitoring and analysis software, using open source components. Developed Hardware products in conjunction with the company ALL ENERGY PERU SAC, oriented to the energy and natural gas market. We implement advanced technologies in innovative industrial grade products optimized for the Peruvian market. These products are competent in price, performance and durability, applying the engineering standards necessary to fill their function.
 - title: Instrumentation and Control Automation Engineer
    start: 2018
    end: 2018
    employer: All Energy Peru SAC - Lima, Lima
    description: Project of Automation and Control of fuel supply for the generator group of the Primera Vision building (http://
-edificioprimeravision.com/) of the company COSAPI
-I designed and implemented the fuel supply system for the First Vision building generator set. I selected the fuel level
-sensors for the Diesel tanks, designed the control logic (ON / OFF), designed the control board, designed the P&ID
-diagram, drafted the work procedures for the contracting company, programmed the board PLC control in such a way that it
-meets the specifications of reporting the values of the sensors via PROFINET to a BMS system.
  - title: Associate Manager
    start: 2005
    end: 2012
