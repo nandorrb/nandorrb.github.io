@@ -64,10 +64,14 @@ roles:
 #Education is required
 education:
  - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
-
+   date: 2010
+   subject: Mechatronic Engineering
+   school: Universidad Nacional de Ingenieria - Peru
+ - level: Master of Mechanical Engineering
+   date: 2018
+   subject: Machines and Equipment Design
+   school: Technical University of Liberec
+   
 #This section is optional (as is the image link below)
 #coursera:
 #   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
