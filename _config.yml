@@ -41,29 +41,35 @@ skills:
 
   
 #Education part 2
-education:
- - level: Master of Mechanical Engineering
-   date: 2018
-   subject: Machines and Equipment Design
-   school: Technical University of Liberec
+#education:
 
 #Work experience is required
 roles:
- - title: CTO
-   start: 2017
-   end: Ongoing
-   employer: Basement Crowd
-   description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
- - title: Senior Engineer
-   start: 2016
-   end: 2017
-   employer: Emerald Street Ventures
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
- - title: Senior Engineer
-   start: 2012
-   end: 2016
-   employer: Covestor
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> Working as a senior engineer, I worked closely with the CTO and across the full-stack, I was involved in all aspects of the technology including the website and back-end services.
+ - title: Software Engineer - Android Developer
+   start: 2018
+   end: 2018
+   employer: ForceClose.pe - Lima
+   description: Work in the company making different Android projects and modules for clients, with a cycle of 2 week per project. Programming Languages used: Kotlin and Java. Architectural pattern: MVP (Model - view - presenter)
+ - title: Embedded Developer
+   start: 2015
+   end: 2018
+   employer: MECATRONICA.PE - Lima, Lima
+   description: Developed the BlueSquid system (https://nandorrb.github.io/bluesquid/), focused on logistics and data collection. 
+   Developed an own PLC which helps to collect data, at low cost and send directly to the central system. 
+   Developed the system data monitoring and analysis software, using open source components. 
+   Developed Hardware products in conjunction with the company ALL ENERGY PERU SAC, oriented to the energy and natural gas market. 
+   We implement advanced technologies in innovative industrial grade products optimized for the Peruvian market. 
+   These products are competent in price, performance and durability, applying the engineering standards necessary to fill their function.
+- title: Instrumentation and Control Automation Engineer
+   start: 2018
+   end: 2018
+   employer: All Energy Peru SAC - Lima, Lima
+   description: Project of Automation and Control of fuel supply for the generator group of the Primera Vision building (http://
+edificioprimeravision.com/) of the company COSAPI
+I designed and implemented the fuel supply system for the First Vision building generator set. I selected the fuel level
+sensors for the Diesel tanks, designed the control logic (ON / OFF), designed the control board, designed the P&ID
+diagram, drafted the work procedures for the contracting company, programmed the board PLC control in such a way that it
+meets the specifications of reporting the values of the sensors via PROFINET to a BMS system.
  - title: Associate Manager
    start: 2005
    end: 2012
@@ -76,6 +82,10 @@ education:
    date: 2010
    subject: Mechatronic Engineering
    school: Universidad Nacional de Ingenieria - Peru
+ - level: Master of Mechanical Engineering
+   date: 2018
+   subject: Machines and Equipment Design
+   school: Technical University of Liberec
    
 #This section is optional (as is the image link below)
 #coursera:
