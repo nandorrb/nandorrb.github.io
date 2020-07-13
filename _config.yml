@@ -49,7 +49,7 @@ roles:
    start: 2018
    end: 2018
    employer: ForceClose
-   description: Work in the company making different Android projects and modules for clients, with a cycle of 2 week per project.| "-Programming Languages used:" Kotlin and Java | "-Architectural pattern: MVP (Model - view - presenter)".
+   description: Work in the company making different Android projects and modules for clients, with a cycle of 2 week per project.| "Programming Languages used : " Kotlin and Java | "Architectural patterns MVP (Model, view, presenter)".
  - title: Instrumentation and Control Automation Engineer
    start: 2018
    end: 2018
