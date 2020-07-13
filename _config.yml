@@ -45,7 +45,7 @@ skills:
 
 #Work experience is required
 roles:
- - title: Software Engineer / Android Developer
+ - title: Software Engineer, Android Developer
    start: 2018
    end: 2018
    employer: ForceClose
@@ -55,16 +55,16 @@ roles:
    end: 2018
    employer: All Energy Peru SAC
    description: Project of Automation and Control of fuel supply for the generator group of the <a href="http://edificioprimeravision.com/" taget="_blank">Primera Vision building</a>  of the company COSAPI. I designed and implemented the fuel supply system for the First Vision building generator set. I selected the fuel level sensors for the Diesel tanks, designed the control logic (ON / OFF), designed the control board, designed the P&ID diagram, drafted the work procedures for the contracting company, programmed the board PLC control in such a way that it meets the specifications of reporting the values of the sensors via PROFINET to a BMS system.
- - title: Software Engineer // Android developer
+ - title: Software Engineer, Android developer
    start: 2017
    end: 2017
    employer: Instituto Pacifico SA
    description: <p>This is some text in a paragraph.</p>.
- - title: Associate Manager
-   start: 2005
-   end: 2012
-   employer: Accenture
-   description: Working on a range of functional and technical roles, primarily working on client sites in Financial Services in London and Europe.
+ - title: Software Engineer, C# Developer
+   start: 2016
+   end: 2016
+   employer: GB proyectos
+   description: <p>Development of new functions of the GWC software for the company NEPTUNIA and CENCOSUD, this system serves as a communication bus between servers to increase decentralization, allowing servers to keep running in case one of them fails. We automate processes through software, replacing old systems with private GWC software</p>.
 
 #Education is required
 education:
