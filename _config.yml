@@ -49,7 +49,7 @@ roles:
    start: 2018
    end: 2018
    employer: ForceClose
-   description: <p>This is some text in a paragraph.</p>
+   description: <p>This is some text in a paragraph.</p>.
  - title: Instrumentation and Control Automation Engineer
    start: 2018
    end: 2018
@@ -59,7 +59,7 @@ roles:
    start: 2017
    end: 2017
    employer: Instituto Pacifico SA
-   description: <p>This is some text in a paragraph.</p>
+   description: <p>This is some text in a paragraph.</p>.
  - title: Associate Manager
    start: 2005
    end: 2012
