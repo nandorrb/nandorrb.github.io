@@ -54,27 +54,16 @@ roles:
    start: 2018
    end: 2018
    employer: All Energy Peru SAC
-   description: Project of Automation and Control of fuel supply for the generator group of the <a href="http://edificioprimeravision.com/" taget="_blank">Primera Vision building</a>  of the company COSAPI. I designed and implemented the fuel supply system for the First Vision building generator set. I selected the fuel level sensors for the Diesel tanks, designed the control logic (ON / OFF), designed the control board, designed the P&ID diagram, drafted the work procedures for the contracting company, programmed the board PLC control in such a way that it meets the specifications of reporting the values of the sensors via PROFINET to a BMS system.
- - title: Instrumentation and Control Automation Engineer
-   start: 2017
-   end: 2017
-   employer: All Energy Peru SAC
-   description: Project of Automation and Control of fuel supply for the generator group of the <a href="http://edificioprimeravision.com/" taget="_blank">Primera Vision building</a>  of the company COSAPI. I designed and implemented the fuel supply system for the First Vision building generator set. I selected the fuel level sensors for the Diesel tanks, designed the control logic (ON / OFF), designed the control board, designed the P&ID diagram, drafted the work procedures for the contracting company, programmed the board PLC control in such a way that it meets the specifications of reporting the values of the sensors via PROFINET to a BMS system.
- - title: Instrumentation and Control Automation Engineer
-   start: 2016
-   end: 2016
-   employer: All Energy Peru SAC
-   description: Project of Automation and Control of fuel supply for the generator group of the <a href="http://edificioprimeravision.com/" taget="_blank">Primera Vision building</a>  of the company COSAPI. I designed and implemented the fuel supply system for the First Vision building generator set. I selected the fuel level sensors for the Diesel tanks, designed the control logic (ON / OFF), designed the control board, designed the P&ID diagram, drafted the work procedures for the contracting company, programmed the board PLC control in such a way that it meets the specifications of reporting the values of the sensors via PROFINET to a BMS system.
  - title: Software Engineer, Android developer
    start: 2017
    end: 2017
    employer: Instituto Pacifico SA
-   description: <p>This is some text in a paragraph.</p>.
+   description: asdassdadsdassd.
  - title: Software Engineer, C# Developer
    start: 2016
    end: 2016
    employer: GB proyectos
-   description: "asdasdasd DASDAD ASDSAD."
+   description: asdassdadsdasd
    
 #Education is required
 education:
