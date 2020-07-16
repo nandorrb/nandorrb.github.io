@@ -45,7 +45,7 @@ skills:
 
 #Work experience is required
 roles:
- - title: Software Engineer Android Developer
+ - title: Software Engineer / Android Developer
    start: 2018
    end: 2018
    employer: ForceClose
@@ -55,16 +55,21 @@ roles:
    end: 2018
    employer: All Energy Peru SAC
    description: Project of Automation and Control of fuel supply for the generator group of the <a href="http://edificioprimeravision.com/" taget="_blank">Primera Vision building</a>  of the company COSAPI. I designed and implemented the fuel supply system for the First Vision building generator set. I selected the fuel level sensors for the Diesel tanks, designed the control logic (ON / OFF), designed the control board, designed the P&ID diagram, drafted the work procedures for the contracting company, programmed the board PLC control in such a way that it meets the specifications of reporting the values of the sensors via PROFINET to a BMS system.
- - title: Software Engineer Android developer
+ - title: Software Engineer / Android developer
    start: 2017
    end: 2017
    employer: Instituto Pacifico SA
    description: Project of Automation and Control of fuel supply for the generator group of the <a href="http://edificioprimeravision.com/" taget="_blank">Primera Vision building</a>  of the company COSAPI. I designed and implemented the fuel supply system for the First Vision building generator set. I selected the fuel level sensors for the Diesel tanks, designed the control logic (ON / OFF), designed the control board, designed the P&ID diagram, drafted the work procedures for the contracting company, programmed the board PLC control in such a way that it meets the specifications of reporting the values of the sensors via PROFINET to a BMS system.
- - title: Software Engineer C# Developer
+ - title: Software Engineer / C# Developer
    start: 2016
    end: 2016
    employer: GB proyectos
-   description: Project of Automation and Control of fuel supply for the generator group of the <a href="http://edificioprimeravision.com/" taget="_blank">Primera Vision building</a>  of the company COSAPI. I designed and implemented the fuel supply system for the First Vision building generator set. I selected the fuel level sensors for the Diesel tanks, designed the control logic (ON / OFF), designed the control board, designed the P&ID diagram, drafted the work procedures for the contracting company, programmed the board PLC control in such a way that it meets the specifications of reporting the values of the sensors via PROFINET to a BMS system.
+   description: .
+ - title: Project Engineer
+   start: 2015
+   end: 2016
+   employer: SEW EuroDrive - Ate, Lima
+   description: <p>I did training in this gearmotor company for several weeks, and I have rotated through the different areas learning to&nbsp;assemble gearmotors and using the different products of the company.<br />Selection of gearmotors using the company's own software, as well as using the "Calculation and Machine Design"&nbsp;equations. Parameters were analyzed, such as working temperature, service factor, torque, power, working height, weather<br />conditions, etc.<br />Design of electrical panels, programming of frequency inverters and PLC SEW brand.</p>
    
 #Education is required
 education:
