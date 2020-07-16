@@ -1,7 +1,7 @@
 # Site settings
 title: Fernando Rubio
 twitter_username: fernando_rubi0
-name: Fernando Rubio
+name: Fernando Rafael Rubio Burga
 
 # Build settings
 markdown: kramdown
@@ -19,6 +19,10 @@ primarylinks:
 #   url: https://dzone.com/users/899489/rhinds.html
  - title: LinkedIn
    url: https://www.linkedin.com/in/fernando-rubio/
+ - title: Indeed
+   url: https://my.indeed.com/p/fernandor-q3a3a5r
+ - title: Detailed CV in PDF
+   url: https://nandorrb.github.io/Fernando-Rubio.pdf
 
 #Any buzzword skills you want to include
 skills:
