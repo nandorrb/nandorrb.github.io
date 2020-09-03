@@ -49,11 +49,16 @@ skills:
 
 #Work experience is required
 roles:
+ - title: Software Engineer / Kotlin and Java Developer
+   start: 2020
+ #  end: 2018
+   employer: European Code Factory
+   description: Java and Kotlin programming, MVP architecture.
  - title: Software Engineer / Android Developer
    start: 2018
    end: 2018
    employer: ForceClose
-   description: .
+   description: Java and Kotlin programming, MVP architecture.
  - title: Instrumentation and Control Automation Engineer
    start: 2018
    end: 2018
