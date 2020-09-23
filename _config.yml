@@ -43,7 +43,7 @@ skills:
 #blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 
-  
+
 #Education part 2
 #education:
 
@@ -79,7 +79,7 @@ roles:
    end: 2016
    employer: SEW EuroDrive - Ate, Lima
    description: <p>I did training in this gearmotor company for several weeks, and I have rotated through the different areas learning to&nbsp;assemble gearmotors and using the different products of the company.<br />Selection of gearmotors using the company's own software, as well as using the "Calculation and Machine Design"&nbsp;equations. Parameters were analyzed, such as working temperature, service factor, torque, power, working height, weather<br />conditions, etc.<br />Design of electrical panels, programming of frequency inverters and PLC SEW brand.</p>
-   
+
 #Education is required
 education:
  - level: Bachelor of Science (B.Sc.)
@@ -90,7 +90,7 @@ education:
    date: 2018
    subject: Machines and Equipment Design
    school: Technical University of Liberec
-   
+
 #This section is optional (as is the image link below)
 #coursera:
 #   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
@@ -119,7 +119,7 @@ education:
 #List of interesting Github repo/projects to include - optional
 github:
  - nandorrb/FluidMechanics
- - nandorrb/WaterJetCalculations 
+ - nandorrb/WaterJetCalculations
  - nandorrb/desarrollo_de_aplicaciones
  - nandorrb/FluidMechanics
 
@@ -129,7 +129,7 @@ github:
 #   flairimageurl: https://stackoverflow.com/users/flair/258813.png
 
 intro: |
- Mechatronic Engineer Graduated from the National Engineering University (Lima, Peru), with master in Machines and Equipment Design at Technical University of Liberec (Liberec, Czech Republic) with experience in industrial design. I like to work with new technologies such as Android programming, PCB and Machines design. I participated on the Festo mechatronics olympics of Peru: Pneumatics, electropneumatics and PLC programming. Have a good background on mathematics, programming, material Engineering, and design of machines.
+ Mechatronic Engineer Graduated from the National Engineering University (Lima, Peru), with master in Machines and Equipment Design at Technical University of Liberec (Liberec, Czech Republic) with experience in Software Engineering as well as Embedded Development. I like to work with new technologies such as Android programming, PCB and Machines design. I participated on the Festo mechatronics olympics of Peru: Pneumatics, electropneumatics and PLC programming. Have a good background on mathematics, programming, material Engineering, and design of machines.
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 #additionalinfo: |
